@@ -10,6 +10,7 @@
  * This Class implements the graphic user interfaces of the application.
  */
 
+import java.lang.*;
 import javax.swing.*;
 
 import java.awt.*;
