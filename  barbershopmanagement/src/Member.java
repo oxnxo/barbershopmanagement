@@ -10,13 +10,17 @@
  * This Class defines the data structure of a unit of membership.
  */
 class Member {
-	private long id;        
+	private String id;        
 	private String name;
 	private String phone_num;                          
     private int level;                      
 	private float balance;
 	
-    Member(long id){
+	Member(){
+		this.balance=(float)0;
+	}
+	
+    Member(String id){
 		this.id=id;
 		this.balance=(float)0;
 	}
