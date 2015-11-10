@@ -1,0 +1,1 @@
+The main purpose of this software is to management the business of a barbershop, statistic the volume of business, and monitor the balance of memberships.
